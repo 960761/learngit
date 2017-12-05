@@ -4,3 +4,4 @@ creating a new branch is quick AND simple.
 Test no-ff merge.
 Test ff merge.
 
+add from master
